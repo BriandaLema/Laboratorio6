@@ -114,7 +114,7 @@ Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dis
 
  Promedio de la Potencia calculada teóricamente= 0.0395786 W
 
-%error=(|(Valor teórico-Valor experimental)|/Valor teórico)* 100
+%error=((Valor teórico-Valor experimental)/Valor teórico)* 100
 
 %error=(( 0.0395786 W - 0.0395692 W)/ 0.0395786 W )* 100
 
