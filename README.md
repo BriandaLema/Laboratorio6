@@ -91,7 +91,7 @@ Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dis
 
 **ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR**
 
-Parámetros Eléctricos del circuito
+**Parámetros Eléctricos del circuito**
 
 | RL (Ω) | Corriente medida (mA) | Voltaje medido (V) | Potencia calculada experimentalmente (W) | Potencia calculada teóricamente (W) |
 |----------|------|----------|------|----------|
@@ -108,13 +108,13 @@ Parámetros Eléctricos del circuito
 
 
 
-- **CÁLCULO DEL ERROR DEL VOLTAJE DE THÉVENIN**
+- **CÁLCULO DEL ERROR DE LA POTENCIA**
 
-Voltaje calculado= 5.06 V
+Potencia calculada experimentalmente= 5.06 V
 
-Voltaje medido= 5.0556 V
+Potencia calculada teóricamente= 5.0556 V
 
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
+%error=(|(Valor teórico-Valor experimental)|/Valor teórico)* 100
 
 %error=((5.06 V - 5.0556 V)/ 5.06 V )* 100
 
