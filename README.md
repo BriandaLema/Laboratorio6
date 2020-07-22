@@ -110,76 +110,15 @@ Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dis
 
 - **CÁLCULO DEL ERROR DE LA POTENCIA**
 
-Potencia calculada experimentalmente= 5.06 V
+ Promedio de la Potencia calculada experimentalmente= 0.0395692 W
 
-Potencia calculada teóricamente= 5.0556 V
+ Promedio de la Potencia calculada teóricamente= 0.0395786 W
 
 %error=(|(Valor teórico-Valor experimental)|/Valor teórico)* 100
 
-%error=((5.06 V - 5.0556 V)/ 5.06 V )* 100
+%error=(( 0.0395786 W - 0.0395692 W)/ 0.0395786 W )* 100
 
-%error= 0.087 % 
-
-
-- **CÁLCULO DEL ERROR DE LA RESISTENCIA DE THÉVENIN**
-
-Resistencia calculada= 299 Ω 
-
-Resistencia medida= 298.86 Ω 
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=(( 299 Ω - 298.86 Ω )/ 299 Ω )* 100
-
-%error= 0.047 % 
-
-- **CÁLCULO DEL ERROR DEL VOLTAJE EN R5 EN EL CIRCUITO ORIGINAL**
-
-Voltaje calculado= 4.22 V
-
-Voltaje medido= 3.9 V
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=((4.22 V - 3.9 V)/ 4.22 V)* 100
-
-%error= 7.58 % 
-
-- **CÁLCULO DEL ERROR DE LA CORRIENTE EN R5 EN EL CIRCUITO ORIGINAL**
-
-Corriente calculado= 4.22 mA
-
-Corriente medido= 3.9 mA
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=((4.22 mA - 3.9 mA)/ 4.22 mA)* 100
-
-%error= 7.58 % 
-
-- **CÁLCULO DEL ERROR DEL VOLTAJE EN R5 EN EL CIRCUITO EQUIVALENTE DE THÉVENIN**
-
-Voltaje calculado= 3.84 V
-
-Voltaje medido= 3.89 V
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=(|(3.84 V - 3.89 V)|/ 3.84 V )* 100
-
-%error= 1.30 % 
-
-- **CÁLCULO DEL ERROR DE LA CORRIENTE EN R5 EN EL CIRCUITO EQUIVALENTE DE THÉVENIN**
-
-Voltaje calculado= 3.84 mA
-
-Voltaje medido= 3.89 mA
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=(|(3.84 mA - 3.89 mA)|/ 3.84 mA )* 100
-
-%error= 1.30 % 
+%error= 0.024 % 
 
 
 ## 9.APORTACIONES
