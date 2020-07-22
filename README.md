@@ -190,9 +190,9 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 
 ## 10. CONCLUSIONES
 
+Después de conseguir todos los datos se puede crear una gráfica para poder observar el fenómeno de una máxima transferencia. En esta grafica podemos observar algo interesante que hay un valor pico y este se reduce. Con esto se puede decir que si se cumple el teorema de la máxima transferencia de potencia. Aunque no se usó un Rl de 1.2 k ohmios se observa que este es su pico tal como dice el teorema. La potencia máxima obtenida de las Rl usados es la de 1000 ohmios. En conclusión podemos establecer que el teorema no solo nos muestra que hay un valor pico sino que Rl depende de la resistencia Rs.
 
-
-Con esto se puede concluir, que los datos finales muestran una pequeña diferencia entre los valores medidos y calculados, y se podría dar esto de de la differencia por dos razones : al momento de calcular con el multímetro los valores, intervienen las tolerancias de las resistencias, y esto podría afectar a los valores obtenidos; mientras que en los valores medidos tal vez intervenga el hecho que no habiamos usado todos los decimales presentados en la calculadora, la cual aunque poco afecta los valores obtenidos. 
+![](https://github.com/BriandaLema/Laboratorio6/blob/master/img/Conclusion.jpg)
 
 
 
